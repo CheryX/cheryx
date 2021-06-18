@@ -1,8 +1,2 @@
-<html>
-  <head>
-    <link href="style.css" rel="stylesheet">
-  </head>
-  <body>
-    <h1 style="color: red;">Hello There</h1>
-  </body>
-</html>
+# My Github Stats
+[![CheryX's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheryx)](https://github.com/anuraghazra/github-readme-stats)
