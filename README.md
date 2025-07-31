@@ -1,4 +1,4 @@
 # Hello there! 👋
 
-- 🛠️ Currently working on: [my website](https://musielik.com).
-- 🎮 Playing a lot of Factorio
+- 🛠️ Currently working on: my app "Streakly"
+- 🎮 Exploring Fontaine ~90%
