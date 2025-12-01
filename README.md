@@ -7,4 +7,4 @@ My name's Aki.
 - Doing random coding projects 🌸
 - Enjoying playing autistic video games 🎮
 - Uses Linux on home PC + macOS on remote one. 🐧🍎
-- you know who am i :3c
+- you know who i am :3c
