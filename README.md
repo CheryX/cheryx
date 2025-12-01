@@ -5,5 +5,6 @@ My name's Aki.
 - Studying Applied CS 🐶
 - Vocaloid is my favourite music genre! 🎵
 - Doing random coding projects 🌸
-- Enjoying playing video games 🎮
-- uses linux.
+- Enjoying playing autistic video games 🎮
+- Uses Linux on home PC + macOS on remote one. 🐧🍎
+- :3
